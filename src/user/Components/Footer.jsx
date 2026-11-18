@@ -18,7 +18,8 @@ function Footer() {
           <button className='bg-yellow-500 p-2'><FaArrowRight /></button>
         </div>
       </div>
-       {/* folllow us */}
+       {/* fol
+       low us */}
       <div className='flex flex-col md:mt-0  mt-5'>
         <h4 className='font-bold'>FOLLOW US</h4>
         <p className='my-5'>Let us be social</p>
